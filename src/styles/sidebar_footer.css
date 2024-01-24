@@ -1,5 +1,6 @@
 body{
     background-color: #000;
+    font-family: var(--font-dm-sabs);
 }
 .sidebar{
     position: fixed; /*vai deixar fixo na página*/
@@ -37,7 +38,6 @@ body{
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
-    font-family: 'DM Sans', sans-serif;
 }
 .library{
     background-color: #121212;
@@ -63,7 +63,6 @@ body{
     border: 0px;
     font-size: 14px;
     font-weight: 700;
-    font-family: 'DM Sans', sans-serif;
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -97,7 +96,6 @@ body{
 }
 .section_playlist_content .text{
     padding-bottom: 14px;
-    font-family: 'DM Sans', sans-serif;
     color: #fff;
 }
 
@@ -116,7 +114,6 @@ body{
     border-radius: 20px;
     font-size: 12px;
     font-weight: 700;
-    font-family: 'DM Sans', sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
